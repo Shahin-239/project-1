@@ -1,0 +1,36 @@
+
+
+<html>
+<head>
+<title>registration page</title>
+<style>
+</style>
+<body>
+<p>
+<çenter
+USAR NAME></center>
+<br>
+<input type:"text" name="name"><br></p>
+EMAIL:<br>
+<input type="text" name="email"><br>
+PH NUMBER:<br>
+<input type="text" name="ph no"><br>
+ADDRESS:<br>
+<input type="text" name="ad"><br>
+GENDER:<br>
+<input type="radio" name="m"> Male<br>
+<input type="radio" name="f">Female<br>
+YESR OF STUDENT:<br>
+<input type="checkbox" name="year">1st<br>
+<input type="checkbox" name="year">2nd<br>
+<input type="checkbox" name="year">3rd<br>
+<input type="checkbox" name="year">4th<br>
+BRANCH:<br>
+<input type="checkbox" name="course">AIDS<br>
+<input type="checkbox" name="course">AIML<br>
+<input type="checkbox" name="course">ECE<br>
+<input type="checkbox" name="course">IOT<br>
+<input type="submit"><br>
+</body>
+</head>
+<html>
